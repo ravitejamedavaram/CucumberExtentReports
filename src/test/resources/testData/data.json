@@ -1,0 +1,36 @@
+{
+  "deliveryLocation": {
+    "searchString": "Indiranagar, Bengaluru",
+    "resultString": "Indiranagar, Bengaluru, Karnataka, India"
+  },
+  "restaurant": "Bite Me",
+  "items": [
+    {
+      "name": "Red Velvet Cupcake",
+      "quantity": 2
+    },
+    {
+      "name": "Tiramisu  Cupcake",
+      "quantity": 2
+    },
+    {
+      "name": "Irish Coffee Cupcake",
+      "quantity": 1
+    },
+    {
+      "name": "Choco Choco Cupcake",
+      "quantity": 1
+    },
+    {
+      "name":"Orange Pop",
+      "quantity": 10
+    }
+  ],
+  "customerDetails": {
+    "name": "abc abc",
+    "phone": "0000000000",
+    "email": "abc@def.com",
+    "password": "abcd"
+
+  }
+}

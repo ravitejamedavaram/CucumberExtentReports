@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/test/java/data/Model.java
+  checksum: d12ec284b1322a0790be37a133b53d5201c22093ef3a6d13f81915d0cadb3c60
+  ignore_detectors: []
